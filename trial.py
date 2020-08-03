@@ -10,3 +10,6 @@ print("This file is the trial_branch")
 
 def div(num1, num2):
     return num1/num2
+
+def sub(num1, num2):
+    return num1-num2
